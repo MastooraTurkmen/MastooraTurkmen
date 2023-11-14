@@ -40,8 +40,3 @@ Welcome to my GitHub! 👩‍💻 I am a passionate developer with expertise in 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mastooraturkmen)](https://git.io/streak-stats)
 
-
-
-<details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science
