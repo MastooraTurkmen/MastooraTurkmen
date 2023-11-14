@@ -1,8 +1,6 @@
-
-
 **`Frontend Developer`**
-<!-- youintor here-->
 
+# Asalamualikum (Hi) there, I am Mastoora Turkmen 👋,
 
 
 ---
