@@ -1,6 +1,6 @@
 **`Frontend Developer`**
 
-# Asalamualikum (Hi) there, I am Mastoora Turkmen 👋,
+# Asalamualikum (Hi)👋 there, I am Mastoora Turkmen,
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mastooraturkmen&label=Profile%20views&color=0e75b6&style=flat" alt="mastooraturkmen" /> </p>
 <a href="https://www.linkedin.com/in/mastoora-turkmen/"><img src="https://img.shields.io/badge/-@mastooraTurkmen-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/mastoora-turkmen/" alt="LinkedIn Badge"></a>
