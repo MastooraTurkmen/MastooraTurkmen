@@ -6,7 +6,9 @@ Welcome to my GitHub! 👩‍💻 I am a passionate developer with expertise in 
 
 ![CatComputerGIF](https://github.com/MastooraTurkmen/MastooraTurkmen/assets/132576850/4f51607c-7b3b-445a-bd5e-320f11a81eed) ![CodingGIF](https://github.com/MastooraTurkmen/MastooraTurkmen/assets/132576850/ddec8b62-1039-42d3-a361-46dcc1338b07)
 
+## 😁 Meme
 
+<img alt="Random Memes" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
 
 ---
 
@@ -37,11 +39,9 @@ Welcome to my GitHub! 👩‍💻 I am a passionate developer with expertise in 
 ## 🔥 Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mastooraturkmen)](https://git.io/streak-stats)
-#
 
-## 😁 Meme
 
-<img alt="Random Memes" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
+
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
    I started my coding journey as a naive computer science
