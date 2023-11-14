@@ -3,6 +3,7 @@
 # Asalamualikum (Hi) there, I am Mastoora Turkmen 👋,
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mastooraturkmen&label=Profile%20views&color=0e75b6&style=flat" alt="mastooraturkmen" /> </p>
+<a href="https://www.linkedin.com/in/mastoora-turkmen/"><img src="https://img.shields.io/badge/-@mastooraTurkmen-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/mastoora-turkmen/" alt="LinkedIn Badge"></a>
 
 
 Welcome to my GitHub! 👩‍💻 I am a passionate developer with expertise in JavaScript, CSS, HTML, and React. Coding has become an integral part of my everyday life, and I thrive on the joy it brings me. 🤠 With a deep love for problem-solving and a constant desire to learn and improve, I am committed to honing my skills and exploring new possibilities in the world of web development. Join me on this exciting journey as I embark on new projects and share my code with the community. Let's code together and make an impact in the digital world! You can reach me here [LinkedIn](https://www.linkedin.com/in/mastoora-turkmen/).
