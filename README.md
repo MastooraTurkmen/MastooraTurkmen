@@ -44,3 +44,8 @@ Welcome to my GitHub! 👩‍💻 I am a passionate developer with expertise in 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mastooraturkmen)](https://git.io/streak-stats)
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mastooraturkmen&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=mastooraturkmen&theme=default" />
+</picture>
+
