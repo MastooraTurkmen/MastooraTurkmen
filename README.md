@@ -47,6 +47,6 @@ Welcome to my GitHub! 👩‍💻 I am a passionate developer with expertise in 
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mastooraturkmen&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=mastooraturkmen&theme=default" />
+    <img src="https://streak-stats.demolab.com?user=MastooraTurkmen&theme=default" />
 </picture>
 
