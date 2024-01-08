@@ -37,8 +37,8 @@ Welcome to my GitHub! 👩‍💻 I am a passionate developer with expertise in 
 ## 📊 Stats
 
 <div>
-  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=mastooraturkmen&show_icons=true&theme=codeSTACKr&hide=contribs" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastooraturkmen&layout=compact&show_icons=true&theme=codeSTACKr" />
+  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=MastooraTurkmen&show_icons=true&theme=codeSTACKr&hide=contribs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MastooraTurkmen&layout=compact&show_icons=true&theme=codeSTACKr" />
 </div>
 
 <br/>
