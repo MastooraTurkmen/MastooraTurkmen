@@ -34,11 +34,15 @@ Welcome to my GitHub! 👩‍💻 I am a passionate full-stack web developer wit
 <img align="left" alt="CSS3" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript"  width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React"  width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="35px" style="background: white;" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/github/github-original-wordmark.svg" />
 <img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Nodejs"  width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma"  width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Svelte"  width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Nextjs"  width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Tailwind"  width="45px"  src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Tailwind"  width="40px"  src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Tailwind"  width="50px"  src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/express/express-original-wordmark.svg" style="padding-right:10px;" />
 
 <br/>
 <br/>
