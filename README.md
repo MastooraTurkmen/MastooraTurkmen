@@ -60,7 +60,7 @@ Welcome to my GitHub! 👩‍💻 I am a passionate full-stack web developer wit
 ## 🔥 Streak
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mastooraturkmen&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MastooraTurkmen&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=MastooraTurkmen&theme=default"/>
 </picture>
 
